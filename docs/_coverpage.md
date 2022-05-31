@@ -1,12 +1,11 @@
-![logo](_media/icon.svg)
+![logo](_media/cat-b-favicon.png)
 
-# docsify <small>4.12.2</small>
+#  docsify <small>3.1415926</small>
 
-> A magical documentation site generator.
+> Shuaishuai's document website.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Send Cerebra Only
+- 请求一块二向箔，清理用
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/shuai2008/zss.docsify)
 [Getting Started](#docsify)

@@ -228,7 +228,7 @@ window.$docsify = {
 
       hook.beforeEach(function (html) {
         var url =
-          'https://github.com/docsifyjs/docsify/blob/master/docs/' +
+          'https://github.com/shuai2008/zss.docsify/blob/master/docs/' +
           vm.route.file;
         var editHtml = '[📝 EDIT DOCUMENT](' + url + ')\n';
 
